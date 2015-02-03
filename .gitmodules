@@ -1,3 +1,0 @@
-[submodule "plugin/mathjax"]
-	path = plugin/mathjax
-	url = https://github.com/mathjax/MathJax/
